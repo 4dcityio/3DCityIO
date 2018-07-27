@@ -2550,7 +2550,7 @@ body {
 }
 .cid-qYl2fYJExU .mbr-section-subtitle {
   color: #cccccc;
-  text-align: right;
+  text-align: left;
 }
 .cid-qYl2fYJExU .media-row {
   display: flex;
@@ -2978,6 +2978,11 @@ body {
 .cid-qY3NFnFp2T .nav-link:hover,
 .cid-qY3NFnFp2T .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qZ0bT9ILn1 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(45deg, #000000, #000000);
 }
 .cid-qY3OVRwDam {
   padding-top: 15px;

@@ -2236,9 +2236,11 @@ body {
 }
 .cid-qYZRIGJSeq .mbr-section-subtitle {
   color: #c1c1c1;
+  text-align: left;
 }
 .cid-qYZRIGJSeq H2 {
   color: #55b4d4;
+  text-align: left;
 }
 .cid-qYZQJmerQ2 {
   padding-top: 30px;
@@ -2290,10 +2292,10 @@ body {
 }
 .cid-qYZRpJtGfN .card-title {
   color: #55b4d4;
-  text-align: center;
+  text-align: left;
 }
 .cid-qYZRpJtGfN P {
-  text-align: center;
+  text-align: left;
 }
 .cid-qYJgChH9ET {
   padding-top: 30px;
@@ -2467,6 +2469,9 @@ body {
 .cid-qYP6zEKW4T .testimonial-text SPAN {
   color: #55b4d4;
 }
+.cid-qYP6zEKW4T .mbr-author-desc {
+  color: #c1c1c1;
+}
 .cid-qYJ7xKxLBl {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2481,7 +2486,7 @@ body {
 .cid-qYJ7xKxLBl .mbr-author-name {
   font-weight: bold;
   color: #55b4d4;
-  text-align: center;
+  text-align: left;
 }
 .cid-qYJ7xKxLBl .mbr-author-desc {
   color: #c1c1c1;
@@ -2525,15 +2530,15 @@ body {
   font-style: italic;
   color: #cccccc;
   font-weight: 300;
-  text-align: center;
+  text-align: left;
 }
 .cid-qZ3HjDnvPL .mbr-author-name {
   font-weight: bold;
-  color: #c1c1c1;
-  text-align: center;
+  color: #55b4d4;
+  text-align: left;
 }
 .cid-qZ3HjDnvPL .mbr-author-desc {
-  color: #232;
+  color: #c1c1c1;
 }
 .cid-qZ3HjDnvPL .testimonial-text SPAN {
   color: #55b4d4;
@@ -2555,7 +2560,7 @@ body {
 .cid-qZ3Nc0gU2m .mbr-author-name {
   font-weight: bold;
   color: #55b4d4;
-  text-align: center;
+  text-align: left;
 }
 .cid-qZ3Nc0gU2m .media-container-row {
   word-wrap: break-word;

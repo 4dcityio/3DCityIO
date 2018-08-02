@@ -2885,6 +2885,47 @@ body {
 .cid-qY3NFnFp2T .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qZxw1oCcL0 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #253a3f;
+}
+.cid-qZxw1oCcL0 .testimonial-text {
+  font-style: italic;
+  color: #55b4d4;
+  font-weight: 300;
+  text-align: center;
+}
+.cid-qZxw1oCcL0 .mbr-author-name {
+  font-weight: bold;
+  color: #55b4d4;
+}
+.cid-qZxw1oCcL0 .mbr-author-desc {
+  color: #c1c1c1;
+}
+.cid-qZxw1oCcL0 .testimonial-text SPAN {
+  color: #55b4d4;
+}
+.cid-qZxwpen0Fe {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qZxwpen0Fe .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qZxwpen0Fe .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qZxwpen0Fe .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qZ0jldKEpM {
   background-color: #000000;
 }
